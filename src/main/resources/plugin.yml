@@ -1,0 +1,9 @@
+name: Tempora
+author: Perolan | Kyle
+version: 0.0.1
+main: com.republicasmp.Main
+api-version: 1.13
+commands:
+  inspect:
+    description: Inspect a block with bedrock
+    usage: /inspect
